@@ -1,7 +1,10 @@
 # Dashboard Folder
 
-This folder is intended to store all files related to the data analytics dashboard. 
-These may include Excel spreadsheets, Power BI files, Google Data Studio links, 
-or CSV files used for generating visualizations and business insights.
+Here you will find the Excel dashboard used to analyze the data.
+Sample data is provided in a data sheet
+- Pivot tables help you to visualize data
+- Charts that allow you to interact with them (bar, line or area)
+- Making a Gantt chart for following the project’s timeline
 
-All dashboard versions and related data files will be organized here.
+The insights were drawn from these visuals and are included in the final report.
+
