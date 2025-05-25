@@ -1,7 +1,10 @@
 # Screenshots Folder
 
-This folder contains screenshots of project activities and artifacts. 
-It includes images of the GitHub repository structure, Jira task board, 
-Gantt chart, dashboard visualizations, and other relevant deliverables.
+The folder keeps essential images such as:
+- Gantt chart
+- How GitHub repos are set up
+- Pivot table charts on the dashboard
+- Cleaning the data
 
-Screenshots will be referenced in the final report and presentation to support project documentation and version tracking.
+Every screenshot is labelled by its function and appears in the final report.
+
